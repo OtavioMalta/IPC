@@ -2,23 +2,23 @@
 ## Controle de Patrimônios
 
 ## Funções <br>
-[x] cadastrar();<br>
-[x] inventario();<br>
-[x] mostra1();<br>
-[x] baixa();<br>
-[x] movimentacao();<br>
-[x] reg_movimentacao();<br>
-[x] manutencao();<br>
-[x] edicao();<br>
+ cadastrar();<br>
+ inventario();<br>
+ mostra1();<br>
+ baixa();<br>
+ movimentacao();<br>
+ reg_movimentacao();<br>
+ manutencao();<br>
+ edicao();<br>
 
 ## Pontuação <br>
-[x] 02 pts Atender os requisitos<br>
-[x] 02 pts Explicação detalhada do código<br>
-[x] 01 pt Uso de Vetor -> strings<br>
-[x] 01 pt Uso de Função<br>
-[x] 01 pt Uso de Estrutura<br>
-[x] 01 pt Uso de Ponteiro<br>
-[x] 01 pts Persistência dos dados em arquivo<br>
+ 02 pts Atender os requisitos<br>
+ 02 pts Explicação detalhada do código<br>
+ 01 pt Uso de Vetor -> strings<br>
+ 01 pt Uso de Função<br>
+ 01 pt Uso de Estrutura<br>
+ 01 pt Uso de Ponteiro<br>
+ 01 pts Persistência dos dados em arquivo<br>
 
 ## O trabalho será válido se:
 * For codificado em **Linguagem C**
